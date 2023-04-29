@@ -62,7 +62,7 @@ function App() {
   return (
     <div className={style.bg}>
       <div className={style.container}>
-        <h3 className={style.heading}>Task App [CRUD]</h3>
+        <h3 className={style.heading}>Task App</h3>
         <form onSubmit={createTodo} className={style.form}>
           <input value={inputValue} onChange={e => setInputValue(e.target.value)} className={style.input} type="text" placeholder="Add Todo" />
           <button className={style.button}>
