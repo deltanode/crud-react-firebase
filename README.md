@@ -18,7 +18,7 @@ While creating the app covered:
 
 | Project | Tech Stack | Source Code |
 | --- | --- | --- |
-| Authentication | React + Firebase | <ul><li>- [x] [main.jsx](./src/main.jsx)</li><li>- [x] [firebase.js](./src/firebase.js)</li><li>- [x] [App.jsx](./src/App.jsx)</li><li>- [x] components/[Todo.jsx](./src/components/Todo.jsx)</li><li>- [x] [.env](./.env)</li><li>- [x] [package.json](./package.json)</li></ul> |
+| CRUD App | React + Firebase | <ul><li>- [x] [main.jsx](./src/main.jsx)</li><li>- [x] [firebase.js](./src/firebase.js)</li><li>- [x] [App.jsx](./src/App.jsx)</li><li>- [x] components/[Todo.jsx](./src/components/Todo.jsx)</li><li>- [x] [.env](./.env)</li><li>- [x] [package.json](./package.json)</li></ul> |
 
 
 ## References:
